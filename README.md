@@ -167,7 +167,7 @@ http://localhost:8501
 
 The diagram below illustrates how the learner, vocabulary data, Streamlit application, and browser speech features work together.
 
-<img width="1500" height="1740" alt="word-quest-workflow" src="https://github.com/user-attachments/assets/d6fb674d-e9fb-4eb6-8a7f-6105ba11b972" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3feb3174-0e8b-4837-925f-2277f80381c1" />
 
 
 ## Troubleshooting
