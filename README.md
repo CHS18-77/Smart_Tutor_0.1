@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/33447582/README.2.md)
 # Word Quest 🚀
 ### A Kannada-Supported English Vocabulary and Speaking Tutor
 
